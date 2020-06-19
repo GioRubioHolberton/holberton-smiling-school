@@ -12,7 +12,7 @@ You won’t have a lot of instruction, you are free to implement it the way that
 * You have to use Bootstrap
 * Your styles.css must be as small as you can - you must use as much as you can Bootstrap classes
 
-##Tasks
+## Tasks
 
 ### 0. Read and be familiar with Figma
 
@@ -45,3 +45,6 @@ You won’t have a lot of instruction, you are free to implement it the way that
 ### 14. List of result
 
 ### 15. Close the page with a footer
+
+## Author
+* [Giovanny Rubio](https://github.com/GioRubioHolberton)
